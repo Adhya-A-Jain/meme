@@ -1,0 +1,21 @@
+.bgcolor {
+    background-color: #91C8E4;
+    padding: 3rem 1rem;
+    margin: 3rem 0;
+    text-align: center;
+}
+
+.img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+
+.img2 {
+    display: flex;
+    float: left;
+    justify-content: center;
+    height: 200px;
+    width: 200px;
+    
+}
